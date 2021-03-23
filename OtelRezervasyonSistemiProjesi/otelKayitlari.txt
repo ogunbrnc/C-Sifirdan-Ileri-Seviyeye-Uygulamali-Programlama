@@ -1,0 +1,54 @@
+-----------------------------------------------------------------------------
+Oda Numarasi:23Musterinin Adi-Soyadi:Duygu Keydal
+Kisi Sayisi:2
+Toplam Tutar:9600.00TL
+Giris Tarihi:12:3:2019
+Cikis Tarihi:14:4:2019
+-----------------------------------------------------------------------------
+Oda Numarasi:88Musterinin Adi-Soyadi:Ogun Birinci
+Kisi Sayisi:3
+Toplam Tutar:5850.00TL
+Giris Tarihi:25:3:2019
+Cikis Tarihi:8:4:2019
+-----------------------------------------------------------------------------
+Oda Numarasi:35
+Musterinin Adi-Soyadi:Ogun Birinci
+Kisi Sayisi:3
+Toplam Tutar:3600.00TL
+Giris Tarihi:15:3:2019
+Cikis Tarihi:23:3:2019
+-----------------------------------------------------------------------------
+Oda Numarasi:38
+Musterinin Adi-Soyadi:Duygu Keydal
+Kisi Sayisi:4
+Toplam Tutar:4200.00TL
+Giris Tarihi:12:3:2019
+Cikis Tarihi:19:3:2019
+-----------------------------------------------------------------------------
+Oda Numarasi:35
+Musterinin Adi-Soyadi:Ogun Birinci
+Kisi Sayisi:3
+Toplam Tutar:3600.00TL
+Giris Tarihi:15:3:2019
+Cikis Tarihi:23:3:2019
+-----------------------------------------------------------------------------
+Oda Numarasi:38
+Musterinin Adi-Soyadi:Duygu Keydal
+Kisi Sayisi:4
+Toplam Tutar:4200.00TL
+Giris Tarihi:12:3:2019
+Cikis Tarihi:19:3:2019
+-----------------------------------------------------------------------------
+Oda Numarasi:32
+Musterinin Adi-Soyadi:Ogun Birinci
+Kisi Sayisi:2
+Toplam Tutar:1800.00TL
+Giris Tarihi:15:7:2020
+Cikis Tarihi:21:7:2020
+-----------------------------------------------------------------------------
+Oda Numarasi:53
+Musterinin Adi-Soyadi:Neriman Birinci
+Kisi Sayisi:4
+Toplam Tutar:4200.00TL
+Giris Tarihi:28:6:2020
+Cikis Tarihi:5:7:2020
