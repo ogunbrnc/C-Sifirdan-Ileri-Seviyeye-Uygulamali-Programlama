@@ -1,0 +1,4 @@
+Ogun	Birinci	1	3532	123456
+Duygu	Keydal	0	4074	12345
+Neriman	Birinci	1	21845	12345678
+ogun	birinci	1	1642	1234
