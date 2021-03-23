@@ -1,0 +1,7 @@
+OgunBirinci	75	48	57.450000	D	Gectiniz.
+DuyguKeydal	89	92	90.950000	A	Gectiniz.
+EdaDeniz	82	58	66.400000	C	Gectiniz.
+BurakIkinci	92	47	62.750000	D	Gectiniz.
+HalilTasdelen	48	39	42.150000	F	Kaldiniz.
+OmerSelvi	39	21	27.300000	F	Kaldiniz.
+OguzBirinci	98	97	97.350000	A	Gectiniz.
